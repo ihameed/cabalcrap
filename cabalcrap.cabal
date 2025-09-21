@@ -67,7 +67,7 @@ executable cabalcrap
     -- other-extensions:
 
     -- Other library packages from which modules are imported.
-    build-depends:    base, durp
+    build-depends:    base, durp, nestedmap
 
     -- Directories containing source files.
     hs-source-dirs:   app

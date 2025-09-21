@@ -3,3 +3,7 @@ source-repository-package
   type: git
   location: https://github.com/ihameed/durp.git
   subdir: .
+source-repository-package
+  type: git
+  location: https://github.com/kirstin-rhys/nestedmap.git
+  subdir: .
